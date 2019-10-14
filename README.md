@@ -1,5 +1,5 @@
 # Docker Workshop
-
+This repo contains three sample projects for the [docker workshop](https://www.facebook.com/events/2436141676464170/) I ran on 14th of October, 2019. The slides used for the workshop are [here](https://docs.google.com/presentation/d/1XmV66BpDFzHac93GXBoWxK9-GY30KeK3cXTT4kSh_MI/edit?usp=sharing).
 
 ## Hello World!
 Check if docker is working.
