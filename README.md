@@ -69,7 +69,7 @@ docker container run -d -p 5000:5000 --name flask-container flask-image
 * **-d** ~ run as a daemon process.
 * **-p HOST_PORT:CONTAINER_PORT** ~ map host & container port
 
-1. Stop the container.
+3. Stop the container.
 ```
 docker container stop flask-container
 ```
